@@ -1,5 +1,5 @@
 {
-    "name": "lop/lop-opensdk-php",
+    "name": "id0612/lop-opensdk-php",
     "type": "library",
     "version": "1.0.0",
     "autoload": {
